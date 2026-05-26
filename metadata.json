@@ -1,0 +1,6 @@
+{
+  "name": "ScoreWave",
+  "description": "Live Multi-Sport Scoreboard with Real-Time Sockets and AI Commentaries powered by Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
